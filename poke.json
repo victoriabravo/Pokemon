@@ -1,0 +1,14 @@
+{
+"forms": [
+  { "name": "pikachu","url": "https://pokeapi.co/api/v2/pokemon-form/25/"}
+    ],
+ "move":[ 
+  {"name": "mega-punch","url": "https://pokeapi.co/api/v2/move/5/" },
+  {"name": "pay-day","url": "https://pokeapi.co/api/v2/move/6/"},
+  {"name": "thunder-punch","url": "https://pokeapi.co/api/v2/move/9/"}
+     ],
+ "sprites":[ 
+     {"front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"}
+    ]
+}
+
